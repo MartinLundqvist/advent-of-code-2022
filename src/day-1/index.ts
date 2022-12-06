@@ -2,7 +2,7 @@ import fs from 'fs';
 
 export const day1 = () => {
   const input = fs.readFileSync('./src/day-1/data.txt', 'utf-8');
-  const numbers = input.split('\n'); // We now have an array of strings
+  const numbers = input.split('\n');
 
   // We convert it to an array of arrays of numbers. Each inner array represents one Elf's foods.
   const elfArray: number[][] = [];

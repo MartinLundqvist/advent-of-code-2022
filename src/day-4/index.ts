@@ -52,6 +52,6 @@ export const day4 = () => {
     return score;
   };
 
-  //   console.log(`Result from part 1 is ${part1Score()}`);
+  console.log(`Result from part 1 is ${part1Score()}`);
   console.log(`Result from part 2 is ${part2Score()}`);
 };
