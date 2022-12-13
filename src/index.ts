@@ -12,4 +12,4 @@ import { day7 } from './day-7';
 import { day8 } from './day-8';
 import { day9 } from './day-9';
 
-day13();
+day11();
