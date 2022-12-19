@@ -3,6 +3,7 @@ import { day10 } from './day-10';
 import { day11 } from './day-11';
 import { day12 } from './Day-12';
 import { day13 } from './day-13';
+import { day14 } from './day-14';
 import { day2 } from './day-2';
 import { day3 } from './day-3';
 import { day4 } from './day-4';
@@ -12,4 +13,4 @@ import { day7 } from './day-7';
 import { day8 } from './day-8';
 import { day9 } from './day-9';
 
-day11();
+day14();
