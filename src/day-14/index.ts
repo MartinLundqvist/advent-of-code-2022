@@ -160,6 +160,8 @@ const countSand = (cave: string[][]): number => {
 };
 
 export const day14 = () => {
+  console.time('Time');
+
   const input = fs.readFileSync('src/day-14/data.txt', 'utf-8').split('\n');
 
   const cave = createCave(input);
@@ -189,4 +191,6 @@ export const day14 = () => {
 
   console.log(`Answer to part 1 is: ${result}`);
   console.log(`Answer to part 2 is: ${result2}`);
+
+  console.timeEnd('Time');
 };
