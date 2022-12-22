@@ -5,6 +5,7 @@ import { day12 } from './Day-12';
 import { day13 } from './day-13';
 import { day14 } from './day-14';
 import { day15 } from './day-15';
+import { day16 } from './day-16';
 import { day2 } from './day-2';
 import { day3 } from './day-3';
 import { day4 } from './day-4';
@@ -14,4 +15,4 @@ import { day7 } from './day-7';
 import { day8 } from './day-8';
 import { day9 } from './day-9';
 
-day15();
+day16();
