@@ -304,7 +304,7 @@ const part2TestFunction = (rocks: number) => {
 };
 const part2Function = (rocks: number) => {
   // For part 2 actual round, the pattern repeats every 1735 rocks adding 2695 to the height
-  // To get to 1_000_000_000_000 we need add 1875 rocks and then repeat the pattern 576_368_876 times.
+  // To get to 1_000_000_000_000 we need add 1875 rocks and then repeat the pattern 576_368_875 times.
   // At 1875 rocks, the height is 2894.
 
   const deltaHeight = 2695;

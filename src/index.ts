@@ -7,6 +7,7 @@ import { day14 } from './day-14';
 import { day15 } from './day-15';
 import { day16 } from './day-16';
 import { day17 } from './day-17';
+import { day18 } from './day-18';
 import { day2 } from './day-2';
 import { day3 } from './day-3';
 import { day4 } from './day-4';
@@ -16,4 +17,4 @@ import { day7 } from './day-7';
 import { day8 } from './day-8';
 import { day9 } from './day-9';
 
-day17();
+day18();
